@@ -1,4 +1,4 @@
-# 🦁 Animal Detection
+# 🦁 Animal Recognition
 
 A project to recognize animals, fish, and etc. on video using the YOLOv5 Deep Learning algorithm. Optimized for mobile devices by yolov5m.
 
