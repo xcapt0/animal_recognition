@@ -7,7 +7,7 @@ A project to recognize animals, fish, and etc. on video using the YOLOv5 Deep Le
 ## 🔑 Installation
 Install project with the following commands:
 ```sh
-git pull https://github.com/xcapt0/animal_detection.git
+git pull https://github.com/xcapt0/animal_recognition.git
 pip install -r requirements.txt
 ```
 
